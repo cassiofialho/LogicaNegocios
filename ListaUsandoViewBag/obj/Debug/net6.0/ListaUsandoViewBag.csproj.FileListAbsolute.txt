@@ -1,0 +1,57 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.staticwebassets.runtime.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.RazorAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.RazorAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\scopedcss\bundle\ListaUsandoViewBag.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\scopedcss\projectbundle\ListaUsandoViewBag.bundle.scp.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\refint\ListaUsandoViewBag.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ref\ListaUsandoViewBag.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\appsettings.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.staticwebassets.runtime.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.exe
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.deps.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.runtimeconfig.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\bin\Debug\net6.0\ListaUsandoViewBag.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.csproj.AssemblyReference.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.AssemblyInfoInputs.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.AssemblyInfo.cs
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.csproj.CoreCompileInputs.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.RazorAssemblyInfo.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.RazorAssemblyInfo.cs
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets\msbuild.ListaUsandoViewBag.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets\msbuild.build.ListaUsandoViewBag.props
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ListaUsandoViewBag.props
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ListaUsandoViewBag.props
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\scopedcss\bundle\ListaUsandoViewBag.styles.css
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\scopedcss\projectbundle\ListaUsandoViewBag.bundle.scp.css
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\refint\ListaUsandoViewBag.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ListaUsandoViewBag.genruntimeconfig.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\ListaUsandoViewBag\obj\Debug\net6.0\ref\ListaUsandoViewBag.dll

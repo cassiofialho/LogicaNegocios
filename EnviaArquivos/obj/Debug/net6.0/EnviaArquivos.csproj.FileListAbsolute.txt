@@ -1,0 +1,57 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.RazorAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.RazorAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.staticwebassets.runtime.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\scopedcss\bundle\EnviaArquivos.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\scopedcss\projectbundle\EnviaArquivos.bundle.scp.css
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\refint\EnviaArquivos.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Curso C#\POO\POOMVC\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\ref\EnviaArquivos.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\appsettings.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.staticwebassets.runtime.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.exe
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.deps.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.runtimeconfig.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\bin\Debug\net6.0\EnviaArquivos.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.csproj.AssemblyReference.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.AssemblyInfoInputs.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.AssemblyInfo.cs
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.csproj.CoreCompileInputs.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.RazorAssemblyInfo.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.RazorAssemblyInfo.cs
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets\msbuild.EnviaArquivos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets\msbuild.build.EnviaArquivos.props
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnviaArquivos.props
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnviaArquivos.props
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\scopedcss\bundle\EnviaArquivos.styles.css
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\scopedcss\projectbundle\EnviaArquivos.bundle.scp.css
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\refint\EnviaArquivos.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.pdb
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\EnviaArquivos.genruntimeconfig.cache
+C:\Users\cassi\OneDrive\Área de Trabalho\impacta\CSharp\LogicasNegocios\EnviaArquivos\obj\Debug\net6.0\ref\EnviaArquivos.dll
